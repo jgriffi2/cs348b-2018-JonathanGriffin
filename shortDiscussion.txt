@@ -1,0 +1,20 @@
+1. The image is in the file HW2ShortDiscussion.JPG
+   The ray is "bad" because it will likely never intersect, and if the ray is
+   parallel to any surface, then it will never intersect.
+
+2. If there is a scene with a lot of geometry (i.e. vertices, fractals, etc.),
+   then using the min() function with multiple distance estimators would be
+   optimal. If the scene had little geometry, then using the k-d tree would
+   probably be best.
+
+3. If pError is the zero vector, then the image has a lot of shadows. This is
+   because "pbrt tries to guarantee that the "true" hitpoint would be in the box
+   centered at p with extents equal to pError." If pError is the zero vector,
+   then pbrt calculates the surface interaction only at point p with no extents.
+
+4. Some troubles I encountered during the assignment were mainly C++ based. I
+   don't have a lot of knowledge when it comes to coding in C++, so I don't know
+   the syntax or the structure for most of the code base. That made it difficult
+   to begin the assignment and really figure out what I had to do. Therefore,
+   Parts 1-4 were really challenging, but the rest of the assignment was pretty
+   straightforward for me.

@@ -1,0 +1,16 @@
+1. In my case, you would get some weird perspectives on the image as well as
+   some interesting lighting.
+2. Did not do Part 4, so do not need to answer.
+3. Did not do Part 4, so do not need to answer.
+
+Troubles I ran into:
+The biggest problem for me was understanding what to do. I, for one, was stuck
+on Part 2 for a long time because of what the spec said to do for that part. It
+said I needed to change the direction of the ray but I later found out that it
+was the resolution I needed to change. Conceptually, I don't think this was very
+hard to do, but I think it just wasn't very clear based on the spec. Also, I
+don't know how long it took for other people, but my image for Part 2 took 16
+hours to finish rendering, which seems like an extremely long time. My main
+concern and trouble was with Part 3. I wasn't able to get that working properly
+at all, though at least I was told that theoretically everything was right. I
+have submitted my best attempt, which is just a black screen
